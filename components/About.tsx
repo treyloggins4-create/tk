@@ -6,8 +6,8 @@ import { CheckCircle, Clock, Star, Users } from 'lucide-react'
 const features = [
   {
     icon: CheckCircle,
-    title: 'Licensed & Insured',
-    description: 'Fully licensed and insured for your peace of mind',
+    title: 'Local & Trusted',
+    description: 'Proudly serving our community with reliable, trustworthy service',
   },
   {
     icon: Clock,
